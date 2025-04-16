@@ -1,0 +1,31 @@
+{
+  "INCLUDE": [
+    "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/mctester/1.25.1-e21f9afb109c7f3b158bb4f0d152ae61/include"
+  ],
+  "LIB": [
+    "HEPEvent",
+    "HepMCEvent",
+    "MCTester"
+  ],
+  "LIBDIR": [
+    "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/mctester/1.25.1-e21f9afb109c7f3b158bb4f0d152ae61/lib"
+  ],
+  "MCTESTER_BASE": "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/mctester/1.25.1-e21f9afb109c7f3b158bb4f0d152ae61",
+  "RUNTIME": {
+    "PATH:ROOT_INCLUDE_PATH": [
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/mctester/1.25.1-e21f9afb109c7f3b158bb4f0d152ae61/include"
+    ]
+  },
+  "TOOLNAME": "mctester",
+  "TOOLVERSION": "1.25.1-e21f9afb109c7f3b158bb4f0d152ae61",
+  "USE": [
+    "root_cxxdefaults",
+    "root",
+    "hepmc"
+  ],
+  "VARIABLES": [
+    "MCTESTER_BASE",
+    "LIBDIR",
+    "INCLUDE"
+  ]
+}

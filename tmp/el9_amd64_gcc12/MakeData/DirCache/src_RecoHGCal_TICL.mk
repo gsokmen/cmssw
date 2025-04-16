@@ -1,0 +1,2 @@
+ALL_PACKAGES += RecoHGCal/TICL
+subdirs_src_RecoHGCal_TICL := src_RecoHGCal_TICL_plugins src_RecoHGCal_TICL_python src_RecoHGCal_TICL_src src_RecoHGCal_TICL_test

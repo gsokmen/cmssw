@@ -1,0 +1,2 @@
+ALL_PACKAGES += RecoHGCal/Configuration
+subdirs_src_RecoHGCal_Configuration := src_RecoHGCal_Configuration_python

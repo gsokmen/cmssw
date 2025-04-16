@@ -1,0 +1,58 @@
+{
+  "BUILDPRODUCTS": {
+    "LIBRARY": {
+      "RecoHGCalTICLPlugins": {
+        "FILES": "*.cc",
+        "FLAGS": {
+          "EDM_PLUGIN": [
+            "1"
+          ]
+        },
+        "TYPE": "lib"
+      }
+    }
+  },
+  "FLAGS": {
+    "USE_SOURCE_ONLY": [
+      "Geometry/CommonDetUnit"
+    ]
+  },
+  "USE": [
+    "CommonTools/Utils",
+    "DataFormats/CaloRecHit",
+    "DataFormats/Common",
+    "DataFormats/GeometrySurface",
+    "DataFormats/GsfTrackReco",
+    "DataFormats/HGCalReco",
+    "DataFormats/L1TCorrelator",
+    "DataFormats/Math",
+    "DataFormats/ParticleFlowCandidate",
+    "DataFormats/ParticleFlowReco",
+    "DataFormats/TrackReco",
+    "FWCore/Framework",
+    "FWCore/MessageLogger",
+    "FWCore/ParameterSet",
+    "FWCore/PluginManager",
+    "FWCore/ServiceRegistry",
+    "FWCore/Utilities",
+    "Geometry/CaloGeometry",
+    "Geometry/HGCalCommonData",
+    "Geometry/Records",
+    "MagneticField/Engine",
+    "MagneticField/Records",
+    "PhysicsTools/TensorFlow",
+    "PhysicsTools/UtilAlgos",
+    "PhysicsTools/ONNXRuntime",
+    "RecoEcal/EgammaCoreTools",
+    "RecoLocalCalo/HGCalRecAlgos",
+    "RecoLocalCalo/HGCalRecProducers",
+    "RecoHGCal/TICL",
+    "RecoParticleFlow/PFProducer",
+    "SimDataFormats/Associations",
+    "SimDataFormats/CaloAnalysis",
+    "TrackingTools/GeomPropagators",
+    "TrackingTools/Records",
+    "TrackingTools/TrajectoryState",
+    "fastjet"
+  ]
+}

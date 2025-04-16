@@ -1,0 +1,5 @@
+ALL_TOOLS      += numpy-c-api
+numpy-c-api_EX_INCLUDE := /cvmfs/cms.cern.ch/el9_amd64_gcc12/external/py3-numpy/1.24.3-f74ada7f4b79bda64c489d24af9622b3/c-api/core/include
+numpy-c-api_EX_LIB := npymath
+numpy-c-api_EX_USE := root_cxxdefaults
+

@@ -1,0 +1,400 @@
+{
+  "RTBOURNE": {
+    "DEFAULT_COMPILER": "gcc"
+  },
+  "path": {
+    "CMSSW_DATA_PATH": [
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/cms"
+    ],
+    "CMSSW_FWLITE_INCLUDE_PATH": [
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/sherpa/2.2.15-3bb587037cf23b9e97da71386335fc2b/include",
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/hepmc/2.06.10-6a65fcd1f028c097f0f24e8fa61d1b1b/include",
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/clhep/2.4.7.1-f14ab48632c31ebed848ba837f87e082/include",
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/boost/1.80.0-53d9ca725637486ff435c5f07081110a/include",
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/hepmc3/3.2.7-c29b1572175a7bf793f46dc34d1f656a/include"
+    ],
+    "CMSSW_SEARCH_PATH": [
+      "/grid_mnt/data_cms_upgrade/sokmen/HGCALSuperclustering/HgcalSuperclustering/newEnvironment/CMSSW_14_2_0_pre1/poison",
+      "/grid_mnt/data_cms_upgrade/sokmen/HGCALSuperclustering/HgcalSuperclustering/newEnvironment/CMSSW_14_2_0_pre1/src",
+      "/grid_mnt/data_cms_upgrade/sokmen/HGCALSuperclustering/HgcalSuperclustering/newEnvironment/CMSSW_14_2_0_pre1/external/el9_amd64_gcc12/data",
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/cms/cmssw/CMSSW_14_2_0_pre1/src",
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/cms/cmssw/CMSSW_14_2_0_pre1/external/el9_amd64_gcc12/data"
+    ],
+    "CMS_OPENLOOPS_PREFIX": [
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/openloops/2.1.2-80c48487bb844a41bafb357ea007d7b0"
+    ],
+    "G4ABLADATA": [
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/geant4-G4ABLA/3.3-b1bc7663734df73231bbb4c3524928bb/data/G4ABLA3.3"
+    ],
+    "G4ENSDFSTATEDATA": [
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/geant4-G4ENSDFSTATE/2.3-ab69597494385a5787c13a1eaa41845d/data/G4ENSDFSTATE2.3"
+    ],
+    "G4INCLDATA": [
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/geant4-G4INCL/1.2-f083ec066ca8132c2b31d3dd329f3ef5/data/G4INCL1.2"
+    ],
+    "G4LEDATA": [
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/geant4-G4EMLOW/8.5-3e7d0a347fe2f571290b0dbeabbbc087/data/G4EMLOW8.5"
+    ],
+    "G4LEVELGAMMADATA": [
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/geant4-G4PhotonEvaporation/5.7-c43ec0e118754b5b1fd64233fd042f7f/data/PhotonEvaporation5.7"
+    ],
+    "G4NEUTRONHPDATA": [
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/geant4-G4NDL/4.7-73c81bbdef205c9b101f48e61bc48284/data/G4NDL4.7"
+    ],
+    "G4PARTICLEXSDATA": [
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/geant4-G4PARTICLEXS/4.1-dedb6cb57da888c9216c6c377a75bae6/data/G4PARTICLEXS4.1"
+    ],
+    "G4RADIOACTIVEDATA": [
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/geant4-G4RadioactiveDecay/5.6-d42e13e021a350d26536fa1a09666268/data/RadioactiveDecay5.6"
+    ],
+    "G4REALSURFACEDATA": [
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/geant4-G4RealSurface/2.2-e1c660888cdf84f71ec98e616ac8547c/data/RealSurface2.2"
+    ],
+    "G4SAIDXSDATA": [
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/geant4-G4SAIDDATA/2.0-740ded83ad733e143258677560a5945e/data/G4SAIDDATA2.0"
+    ],
+    "GIT_EXEC_PATH": [
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/git/2.38.1-4330a8c7f06da3832324f6ac560cb155/libexec/git-core"
+    ],
+    "GIT_SSL_CAINFO": [
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/git/2.38.1-4330a8c7f06da3832324f6ac560cb155/share/ssl/certs/ca-bundle.crt"
+    ],
+    "GIT_TEMPLATE_DIR": [
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/git/2.38.1-4330a8c7f06da3832324f6ac560cb155/share/git-core/templates"
+    ],
+    "GOSAMCONTRIB_PATH": [
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/gosamcontrib/2.0-20150803-954c7760212d5252db716e94b5b1b81e"
+    ],
+    "HWLOC_PLUGINS_PATH": [
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/hwloc/2.10.0-f1c035ec10c9f803ee0db8194a610dd3/lib/hwloc"
+    ],
+    "LD_LIBRARY_PATH": [
+      "/grid_mnt/data_cms_upgrade/sokmen/HGCALSuperclustering/HgcalSuperclustering/newEnvironment/CMSSW_14_2_0_pre1/biglib/el9_amd64_gcc12",
+      "/grid_mnt/data_cms_upgrade/sokmen/HGCALSuperclustering/HgcalSuperclustering/newEnvironment/CMSSW_14_2_0_pre1/lib/el9_amd64_gcc12",
+      "/grid_mnt/data_cms_upgrade/sokmen/HGCALSuperclustering/HgcalSuperclustering/newEnvironment/CMSSW_14_2_0_pre1/external/el9_amd64_gcc12/lib",
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/cms/cmssw/CMSSW_14_2_0_pre1/biglib/el9_amd64_gcc12",
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/cms/cmssw/CMSSW_14_2_0_pre1/lib/el9_amd64_gcc12",
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/cms/cmssw/CMSSW_14_2_0_pre1/external/el9_amd64_gcc12/lib",
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/llvm/18.1.6-d6b6160679b11d38146bdcc6415e9837/lib64",
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/gcc/12.3.1-40d504be6370b5a30e3947a6e575ca28/lib64",
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/gcc/12.3.1-40d504be6370b5a30e3947a6e575ca28/lib"
+    ],
+    "MANPATH": [
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/numactl/2.0.14-b52604abfe0049e6a7aca40a3d26c569/share/man"
+    ],
+    "PATH": [
+      "/grid_mnt/data_cms_upgrade/sokmen/HGCALSuperclustering/HgcalSuperclustering/newEnvironment/CMSSW_14_2_0_pre1/bin/el9_amd64_gcc12",
+      "/grid_mnt/data_cms_upgrade/sokmen/HGCALSuperclustering/HgcalSuperclustering/newEnvironment/CMSSW_14_2_0_pre1/external/el9_amd64_gcc12/bin",
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/cms/cmssw/CMSSW_14_2_0_pre1/bin/el9_amd64_gcc12",
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/cms/cmssw/CMSSW_14_2_0_pre1/external/el9_amd64_gcc12/bin",
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/llvm/18.1.6-d6b6160679b11d38146bdcc6415e9837/bin",
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/gcc/12.3.1-40d504be6370b5a30e3947a6e575ca28/bin"
+    ],
+    "PDFPATH": [
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/rivet/4.0.0-a5040a920a05f23adcccb5890297ea8d/share"
+    ],
+    "PERL5LIB": [
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/git/2.38.1-4330a8c7f06da3832324f6ac560cb155/share/perl5"
+    ],
+    "PYTHON3PATH": [
+      "/grid_mnt/data_cms_upgrade/sokmen/HGCALSuperclustering/HgcalSuperclustering/newEnvironment/CMSSW_14_2_0_pre1/python",
+      "/grid_mnt/data_cms_upgrade/sokmen/HGCALSuperclustering/HgcalSuperclustering/newEnvironment/CMSSW_14_2_0_pre1/lib/el9_amd64_gcc12",
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/cms/cmssw/CMSSW_14_2_0_pre1/python",
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/cms/cmssw/CMSSW_14_2_0_pre1/lib/el9_amd64_gcc12",
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/cms/coral/CORAL_2_3_21-cf7622d721e5fad81e0e9b5aa6e896dd/el9_amd64_gcc12/python",
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/cms/coral/CORAL_2_3_21-cf7622d721e5fad81e0e9b5aa6e896dd/el9_amd64_gcc12/lib",
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/cms/cmssw-tools/2.0-f001a5af645ceb477ebb6a808d299937/lib/python3.9/site-packages"
+    ],
+    "RIVET_ANALYSIS_PATH": [
+      "/grid_mnt/data_cms_upgrade/sokmen/HGCALSuperclustering/HgcalSuperclustering/newEnvironment/CMSSW_14_2_0_pre1/lib/el9_amd64_gcc12",
+      "/grid_mnt/data_cms_upgrade/sokmen/HGCALSuperclustering/HgcalSuperclustering/newEnvironment/CMSSW_14_2_0_pre1/external/el9_amd64_gcc12/lib/Rivet",
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/cms/cmssw/CMSSW_14_2_0_pre1/lib/el9_amd64_gcc12",
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/cms/cmssw/CMSSW_14_2_0_pre1/external/el9_amd64_gcc12/lib/Rivet"
+    ],
+    "RIVET_DATA_PATH": [
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/rivet/4.0.0-a5040a920a05f23adcccb5890297ea8d/share/Rivet"
+    ],
+    "ROOT_GCC_TOOLCHAIN": [
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/gcc/12.3.1-40d504be6370b5a30e3947a6e575ca28"
+    ],
+    "ROOT_INCLUDE_PATH": [
+      "/grid_mnt/data_cms_upgrade/sokmen/HGCALSuperclustering/HgcalSuperclustering/newEnvironment/CMSSW_14_2_0_pre1/src",
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/cms/cmssw/CMSSW_14_2_0_pre1/src",
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/mctester/1.25.1-e21f9afb109c7f3b158bb4f0d152ae61/include",
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/hydjet2/2.4.3-d48d42f47878ea832ad8786b2f35d6f4/include",
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/dd4hep/v01-29-00-e4a23c552668fff72fc28d84a77a188c/include",
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/herwig7/7.2.2-4fdc2ecece225ae2fcf4a8533583f418/include",
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/tauolapp/1.1.8-47f14a67b3857f3609e492012cb7aa4e/include",
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/sherpa/2.2.15-3bb587037cf23b9e97da71386335fc2b/include/SHERPA-MC",
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/rivet/4.0.0-a5040a920a05f23adcccb5890297ea8d/include",
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/lwtnn/2.14.1-8f69cc8e5bae8dbc2c59e5cd88d8cf42/include",
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/thepeg/2.2.2-6eb816a9168ed9c5f8c0e9ca51cd8e27/include",
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/pythia8/311-73e6126e23e97d9299257dffb0f76a59/include",
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/starlight/r193-207373c838be24a9c91ac4135819db7d/include",
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/highfive/2.3.1-765547e9b666660346d5724584d44ce8/include",
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/classlib/3.1.3-c6b100380ee001a2bc06975bb0682ffc/include",
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/lhapdf/6.4.0-4aa384870ea6380250957dc033c78953/include",
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/geant4/11.2.2-efd8fa4ce610e5adbb208ef4ff488972/include",
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/alpaka/1.1.0-2560ffd67f3c41494a937fa07d3ecdb6/include",
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/tkonlinesw/4.2.0-1_gcc7-fc973ab4b3205c379307560c31724528/include",
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/pcre2/10.36-c75e887aa283481338a9a2e3cf0b953b/include",
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/libungif/4.1.4-2f91a77bad1564f8547f5d13089fd857/include",
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/libtiff/4.0.10-c8c279354b1caa3c0f497d3ff0cbc12b/include",
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/libpng/1.6.37-83b21f0cf90ea53017db2db50b3e5a69/include",
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/frontier_client/2.10.2-5398b7713cf60f9e7abeff19a234de65/include",
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/pcre/8.43-e34796d17981e9b6d174328c69446455/include",
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/zstd/1.5.2-5627bb9945bb8f291ec80f2db5515b61/include",
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/xrootd/5.7.0-c9260e4f1a2d170a194d517a2e3b4ccd/include/xrootd/private",
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/cms/vdt/0.4.3-0323942886deba2e13664513f4f1f472/include",
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/valgrind/3.23.0-bc5f1efe61963c7440bdcc46061745bc/include",
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/utm/utm_0.13.0-841bd0cae346c7bf44df7ca2b8a65ba7/include",
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/sigcpp/3.2.0-1fd3ffd5b9362daa24e4b26a82875ac6/include/sigc++-3.0",
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/sqlite/3.36.0-49157ebb9a846c99702be39683b0c263/include",
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/rocm-rocrand/5.6.1-1bfe7155233d00d89c21d4b5e4077c37/include",
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/pacparser/1.4.2-d885ac8c81efb68d64e5a3e0df79c00e/include",
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/oracle/19.11.0.0.0dbru-0ef9ee763c1e7a90d8c4515a5af97f0b/include",
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/py3-numpy/1.24.3-f74ada7f4b79bda64c489d24af9622b3/c-api/core/include",
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/meschach/1.2.pCMS1-79435924678a8cc522f783c34e3865d7/include",
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/lz4/1.9.2-e478fcd3e5e191d5bb4ade190474ad76/include",
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/libuuid/2.34-27ce4c3579b5b1de2808ea9c4cd8ed29/include",
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/libjpeg-turbo/2.0.2-298b32fe3a58a39ad1b48de8db20fe97/include",
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/ktjet/1.06-28927e3fc224b21180fec96a3238d485/include",
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/jemalloc-prof/5.3.0-e8dbd32db354b61c35d5126bf4165efa/include",
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/jemalloc-debug/5.3.0-4144d7f94ef06dc82cab21306f98c999/include",
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/jemalloc/5.3.0-0d50beec355425ed72b8a6798b9a125f/include",
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/hls/2019.08-e6beae7d560007d8bb20c2cf88bfde9a/include",
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/madgraph5amcatnlo/2.7.3-3c2f21a2fd1a36af91d9b00a5e139f91",
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/heppdt/3.04.01-3f3369076deb5be7e1d589988877fe75/include",
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/hector/1.3.4_patch1-4c90eaad6f591c5112acb0af133f7f88/include",
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/protobuf/3.21.9-9c47ffd0ca2627060788d8cae54d8f20/include",
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/libunwind/1.7.2-master-9d3b3f0189b2c4f85a6f87455ed9293a/include",
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/giflib/5.2.0-7d08baa8cb7eb0f890fa0e6ac003a997/include",
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/gdbm/1.10-1f0ec10a142f21150eef9d32ba579779/include",
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/freetype/2.10.0-5451e8098ba14d8050964be923980663/include",
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/fftw3/3.3.8-5270bdf9998065b38f91e9aa053c73ec/include",
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/fftjet/1.5.0-4c95f831c41530ec8fa31a87717d9e5b/include",
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/fastjet/3.4.1-cc6ce46a28fb676c9080adb13b99f03c/include",
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/xz/5.2.5-87b9f5597eaeb8b5e9cedb5d183d5089/include",
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/lcg/root/6.30.09-3de410abaee49ca44c9accc4e505a619/include",
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/dcap/2.47.12-6fedb51a2b7f6cc676419dddc72c874d/include",
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/libxml2/2.9.10-e94a08e9a964ba6f9f66c3ebca88f254/include/libxml2",
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/curl/7.79.0-abae79fca02c8e83ab0f428f2a91d96b/include",
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/cppunit/1.15.x-9c5e10ac1b9ff043c0e3d26ccceb0058/include",
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/cms/coral/CORAL_2_3_21-cf7622d721e5fad81e0e9b5aa6e896dd/include/LCG",
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/pythia6/426-c430ea6f2967f65248af15c71e6c653e/include",
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/hepmc/2.06.10-6a65fcd1f028c097f0f24e8fa61d1b1b/include",
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/gsl/2.6-4e597de26ced42091883404fa44cef2e/include",
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/xerces-c/3.1.3-c7b88eaa36d0408120f3c29826a04bf6/include",
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/expat/2.4.8-b093687a482bf386f8f8c236c5b2efa2/include",
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/zlib/1.2.11-1a082fc322b0051b504cc023f21df178/include",
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/clhep/2.4.7.1-f14ab48632c31ebed848ba837f87e082/include",
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/vecgeom/v1.2.7-43304e6680ead14fb65b529163fd01cb/include",
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/vecgeom/v1.2.7-43304e6680ead14fb65b529163fd01cb/include/VecGeom",
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/bz2lib/1.0.6-d065ccd79984efc6d4660f410e4c81de/include",
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/tbb/v2021.9.0-f55817ca40e6490787280b5021409fd9/include",
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/cuda/12.4.1-8b491273511f117bf853a3f82dc2d34f/include",
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/boost/1.80.0-53d9ca725637486ff435c5f07081110a/include",
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/xgboost/1.7.5-61529ac4f989922ee1438d2e47f9ac23/include",
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/tinyxml2/6.2.0-68d511689c5dbd9a0d296bbb795fa052/include",
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/rdma-core/50.0-5df2dfc1be3b7dfac5f34bdc6bc1fe6d/include",
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/ittnotify/16.06.18-3638f5eb641517c299285e90df71be7f/include",
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/gosamcontrib/2.0-20150803-954c7760212d5252db716e94b5b1b81e/include",
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/fmt/10.2.1-deba157dd76fed17ac8b42adc60ff53f/include",
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/eigen/3bb6a48d8c171cf20b5f8e48bfb4e424fbd4f79e-39786ff94f8aa2f543922cad720e1b32/include/eigen3",
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/hepmc3/3.2.7-c29b1572175a7bf793f46dc34d1f656a/include",
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/rocm/5.6.1-aa237aa7bbff68db0edb0f7b777b5194/include",
+      "/usr/local/include",
+      "/usr/include"
+    ],
+    "ROOT_PATH": [
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/madgraph5amcatnlo/2.7.3-3c2f21a2fd1a36af91d9b00a5e139f91",
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/gosamcontrib/2.0-20150803-954c7760212d5252db716e94b5b1b81e"
+    ],
+    "SHERPA_INCLUDE_PATH": [
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/sherpa/2.2.15-3bb587037cf23b9e97da71386335fc2b/include/SHERPA-MC"
+    ],
+    "SHERPA_LIBRARY_PATH": [
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/sherpa/2.2.15-3bb587037cf23b9e97da71386335fc2b/lib/SHERPA-MC"
+    ],
+    "SHERPA_SHARE_PATH": [
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/sherpa/2.2.15-3bb587037cf23b9e97da71386335fc2b/share/SHERPA-MC"
+    ],
+    "TEST_SRTOPT_PATH": [
+      "/grid_mnt/data_cms_upgrade/sokmen/HGCALSuperclustering/HgcalSuperclustering/newEnvironment/CMSSW_14_2_0_pre1/test/el9_amd64_gcc12",
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/cms/cmssw/CMSSW_14_2_0_pre1/test/el9_amd64_gcc12"
+    ],
+    "WORKER_DATA_PATH": [
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/blackhat/0.9.9-4be91c0829dd8aea91e82a42dbf0e29e/share/blackhat/datafiles/"
+    ]
+  },
+  "variables": [
+    {
+      "CMSSW_BASE": [
+        "/grid_mnt/data_cms_upgrade/sokmen/HGCALSuperclustering/HgcalSuperclustering/newEnvironment/CMSSW_14_2_0_pre1"
+      ]
+    },
+    {
+      "CMSSW_GIT_HASH": [
+        "CMSSW_14_2_0_pre1"
+      ]
+    },
+    {
+      "CMSSW_RELEASE_BASE": [
+        "/cvmfs/cms.cern.ch/el9_amd64_gcc12/cms/cmssw/CMSSW_14_2_0_pre1"
+      ]
+    },
+    {
+      "CMSSW_VERSION": [
+        "CMSSW_14_2_0_pre1"
+      ]
+    },
+    {
+      "LANG": [
+        "C"
+      ]
+    },
+    {
+      "LOCALRT": [
+        "/grid_mnt/data_cms_upgrade/sokmen/HGCALSuperclustering/HgcalSuperclustering/newEnvironment/CMSSW_14_2_0_pre1"
+      ]
+    },
+    {
+      "SCRAM_TARGET": [
+        "default"
+      ]
+    },
+    {
+      "USER_TARGETS_ALL": [
+        "1"
+      ]
+    },
+    {
+      "ROOFITSYS": [
+        "/cvmfs/cms.cern.ch/el9_amd64_gcc12/lcg/root/6.30.09-3de410abaee49ca44c9accc4e505a619/"
+      ]
+    },
+    {
+      "EVTGENDATA": [
+        "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/evtgen/2.0.0-27a39761d85ff91751684e50585f976d/share/EvtGen"
+      ]
+    },
+    {
+      "HERWIGPATH": [
+        "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/herwig7/7.2.2-4fdc2ecece225ae2fcf4a8533583f418/share/Herwig"
+      ]
+    },
+    {
+      "GENREFLEX": [
+        "/cvmfs/cms.cern.ch/el9_amd64_gcc12/lcg/root/6.30.09-3de410abaee49ca44c9accc4e505a619/bin/rootcling"
+      ]
+    },
+    {
+      "THEPEGPATH": [
+        "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/thepeg/2.2.2-6eb816a9168ed9c5f8c0e9ca51cd8e27/share/ThePEG"
+      ]
+    },
+    {
+      "PYTHIA8DATA": [
+        "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/pythia8/311-73e6126e23e97d9299257dffb0f76a59/share/Pythia8/xmldoc"
+      ]
+    },
+    {
+      "CEPGEN_PATH": [
+        "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/cepgen/1.2.5-92c41c8b3eca858b9fe322f2e3b07100/share/CepGen"
+      ]
+    },
+    {
+      "MLAS_DYNAMIC_CPU_ARCH": [
+        "2"
+      ]
+    },
+    {
+      "LHAPDF_DATA_PATH": [
+        "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/lhapdf/6.4.0-4aa384870ea6380250957dc033c78953/share/LHAPDF"
+      ]
+    },
+    {
+      "FRONTIER_CLIENT": [
+        "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/frontier_client/2.10.2-5398b7713cf60f9e7abeff19a234de65/"
+      ]
+    },
+    {
+      "VALGRIND_LIB": [
+        "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/valgrind/3.23.0-bc5f1efe61963c7440bdcc46061745bc/libexec/valgrind"
+      ]
+    },
+    {
+      "UTM_XSD_DIR": [
+        "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/utm/utm_0.13.0-841bd0cae346c7bf44df7ca2b8a65ba7"
+      ]
+    },
+    {
+      "TNS_ADMIN": [
+        "/etc"
+      ]
+    },
+    {
+      "HEPPDT_PARAM_PATH": [
+        "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/heppdt/3.04.01-3f3369076deb5be7e1d589988877fe75"
+      ]
+    },
+    {
+      "ROOTSYS": [
+        "/cvmfs/cms.cern.ch/el9_amd64_gcc12/lcg/root/6.30.09-3de410abaee49ca44c9accc4e505a619/"
+      ]
+    },
+    {
+      "ROOT_TTREECACHE_PREFILL": [
+        "0"
+      ]
+    },
+    {
+      "ROOT_TTREECACHE_SIZE": [
+        "0"
+      ]
+    },
+    {
+      "CLHEP_PARAM_PATH": [
+        "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/clhep/2.4.7.1-f14ab48632c31ebed848ba837f87e082"
+      ]
+    },
+    {
+      "XRDCL_RECORDER_PLUGIN": [
+        "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/xrdcl-record/5.4.2-bec79608a68fadbb9732331b235df9a8/lib64/libXrdClRecorder-5.so"
+      ]
+    },
+    {
+      "INTEL_LICENSE_FILE": [
+        "28518@lxlicen01.cern.ch,28518@lxlicen02.cern.ch,28518@lxlicen03.cern.ch"
+      ]
+    },
+    {
+      "OPAL_PREFIX": [
+        "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/openmpi/4.1.6-6b688b49544ffab9721544aae0c8eccd"
+      ]
+    },
+    {
+      "CSC_TRACK_FINDER_DATA_DIR": [
+        "/cvmfs/cms.cern.ch/el9_amd64_gcc12/cms/CSCTrackFinderEmulation/1.2-4d8fc45bae4641b9aeb067b33fc0e482/data/"
+      ]
+    },
+    {
+      "OPENBLAS_NUM_THREADS": [
+        "1"
+      ]
+    },
+    {
+      "COMPILER_PATH": [
+        "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/gcc/12.3.1-40d504be6370b5a30e3947a6e575ca28"
+      ]
+    },
+    {
+      "SCRAM_CXX11_ABI": [
+        "1"
+      ]
+    }
+  ],
+  "xenv": {
+    "SCRAM_GMAKE_PATH": "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/gmake/4.3-24ac97ee64086a54e50727abb3edab0c/bin/"
+  }
+}

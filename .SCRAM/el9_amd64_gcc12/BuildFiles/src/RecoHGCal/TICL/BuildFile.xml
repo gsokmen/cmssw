@@ -1,0 +1,16 @@
+{
+  "EXPORT": {
+    "LIB": [
+      "1"
+    ]
+  },
+  "NAME": "RecoHGCalTICL",
+  "USE": [
+    "DataFormats/Candidate",
+    "DataFormats/HGCalReco",
+    "DataFormats/VertexReco",
+    "FWCore/PluginManager",
+    "Geometry/HGCalCommonData",
+    "PhysicsTools/TensorFlow"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "LIB": [
+    "ROOTNTuple"
+  ],
+  "TOOLNAME": "rootntuple",
+  "TOOLVERSION": "6.30.09-3de410abaee49ca44c9accc4e505a619",
+  "USE": [
+    "rootvecops",
+    "rootthread"
+  ]
+}

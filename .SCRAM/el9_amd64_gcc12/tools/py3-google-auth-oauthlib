@@ -1,0 +1,13 @@
+{
+  "PY3_GOOGLE_AUTH_OAUTHLIB_BASE": "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/py3-google-auth-oauthlib/1.2.0-dd1c6f42f9384d3783941a0e67fa02fa",
+  "RUNTIME": {
+    "PATH:PATH": [
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/py3-google-auth-oauthlib/1.2.0-dd1c6f42f9384d3783941a0e67fa02fa/bin"
+    ]
+  },
+  "TOOLNAME": "py3-google-auth-oauthlib",
+  "TOOLVERSION": "1.2.0-dd1c6f42f9384d3783941a0e67fa02fa",
+  "VARIABLES": [
+    "PY3_GOOGLE_AUTH_OAUTHLIB_BASE"
+  ]
+}

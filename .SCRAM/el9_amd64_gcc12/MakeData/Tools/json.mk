@@ -1,0 +1,3 @@
+ALL_TOOLS      += json
+json_EX_INCLUDE := /cvmfs/cms.cern.ch/el9_amd64_gcc12/external/json/3.11.3-916217b967b89019c9041062b97d951d/include
+

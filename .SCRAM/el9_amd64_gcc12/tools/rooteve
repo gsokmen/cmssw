@@ -1,0 +1,12 @@
+{
+  "LIB": [
+    "Eve"
+  ],
+  "TOOLNAME": "rooteve",
+  "TOOLVERSION": "6.30.09-3de410abaee49ca44c9accc4e505a619",
+  "USE": [
+    "rootgeompainter",
+    "rootrgl",
+    "rootged"
+  ]
+}

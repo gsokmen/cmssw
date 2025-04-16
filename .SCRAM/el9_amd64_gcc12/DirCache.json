@@ -1,0 +1,272 @@
+{
+  "ADDEDBF": {},
+  "ADDEDDIR": {},
+  "BFCACHE": {
+    "config/BuildFile.xml": 1726166462.0,
+    "src/RecoHGCal/TICL/BuildFile.xml": 1741567755.5932376,
+    "src/RecoHGCal/TICL/plugins/BuildFile.xml": 1741567755.7882402,
+    "src/RecoHGCal/TICL/test/BuildFile.xml": 1741567757.1892574
+  },
+  "CLASSDATA": [
+    [
+      [
+        "",
+        "Project"
+      ],
+      [
+        "BigProducts",
+        "SubSystem"
+      ],
+      [
+        "",
+        "BigProduct"
+      ],
+      [
+        "",
+        "donothing"
+      ]
+    ],
+    [
+      [
+        "",
+        "Project"
+      ],
+      [
+        "",
+        "SubSystem"
+      ],
+      [
+        "",
+        "Package"
+      ],
+      [
+        "scripts",
+        "scripts"
+      ]
+    ],
+    [
+      [
+        "",
+        "Project"
+      ],
+      [
+        "Documentation",
+        "Documentation"
+      ],
+      [
+        "",
+        "doc"
+      ]
+    ],
+    [
+      [
+        "",
+        "Project"
+      ],
+      [
+        "",
+        "SubSystem"
+      ],
+      [
+        "",
+        "Package"
+      ],
+      [
+        "src",
+        "library"
+      ]
+    ],
+    [
+      [
+        "",
+        "Project"
+      ],
+      [
+        "",
+        "SubSystem"
+      ],
+      [
+        "",
+        "Package"
+      ],
+      [
+        "bin",
+        "binary"
+      ]
+    ],
+    [
+      [
+        "",
+        "Project"
+      ],
+      [
+        "",
+        "SubSystem"
+      ],
+      [
+        "",
+        "Package"
+      ],
+      [
+        "test",
+        "test"
+      ]
+    ],
+    [
+      [
+        "",
+        "Project"
+      ],
+      [
+        "",
+        "SubSystem"
+      ],
+      [
+        "",
+        "Package"
+      ],
+      [
+        "plugins",
+        "plugins"
+      ]
+    ],
+    [
+      [
+        "",
+        "Project"
+      ],
+      [
+        "",
+        "SubSystem"
+      ],
+      [
+        "",
+        "Package"
+      ],
+      [
+        "python",
+        "python"
+      ]
+    ],
+    [
+      [
+        "",
+        "Project"
+      ],
+      [
+        "LCG",
+        "SubSystem"
+      ],
+      [
+        "",
+        "Package"
+      ],
+      [
+        "tests",
+        "binary"
+      ]
+    ]
+  ],
+  "CLASSMAP": {
+    "config": [
+      "Project",
+      "config",
+      ""
+    ],
+    "src": [
+      "Project",
+      "src",
+      ""
+    ],
+    "src/RecoHGCal": [
+      "SubSystem",
+      "src/RecoHGCal",
+      ""
+    ],
+    "src/RecoHGCal/Configuration": [
+      "Package",
+      "src/RecoHGCal/Configuration",
+      ""
+    ],
+    "src/RecoHGCal/Configuration/python": [
+      "python",
+      "src/RecoHGCal/Configuration/python",
+      ""
+    ],
+    "src/RecoHGCal/TICL": [
+      "Package",
+      "src/RecoHGCal/TICL",
+      ""
+    ],
+    "src/RecoHGCal/TICL/interface": [
+      "Package",
+      "src/RecoHGCal/TICL",
+      "interface"
+    ],
+    "src/RecoHGCal/TICL/plugins": [
+      "plugins",
+      "src/RecoHGCal/TICL/plugins",
+      ""
+    ],
+    "src/RecoHGCal/TICL/python": [
+      "python",
+      "src/RecoHGCal/TICL/python",
+      ""
+    ],
+    "src/RecoHGCal/TICL/src": [
+      "library",
+      "src/RecoHGCal/TICL/src",
+      ""
+    ],
+    "src/RecoHGCal/TICL/test": [
+      "test",
+      "src/RecoHGCal/TICL/test",
+      ""
+    ]
+  },
+  "DIRCACHE": {
+    "config": [
+      1726268313.0
+    ],
+    "src": [
+      1741568373.2528248,
+      "src/RecoHGCal"
+    ],
+    "src/RecoHGCal": [
+      1741567755.5892377,
+      "src/RecoHGCal/Configuration",
+      "src/RecoHGCal/TICL"
+    ],
+    "src/RecoHGCal/Configuration": [
+      1741567755.464236,
+      "src/RecoHGCal/Configuration/python"
+    ],
+    "src/RecoHGCal/Configuration/python": [
+      1742823248.941487
+    ],
+    "src/RecoHGCal/TICL": [
+      1741567757.1862574,
+      "src/RecoHGCal/TICL/plugins",
+      "src/RecoHGCal/TICL/python",
+      "src/RecoHGCal/TICL/src",
+      "src/RecoHGCal/TICL/test"
+    ],
+    "src/RecoHGCal/TICL/plugins": [
+      1741567756.678251
+    ],
+    "src/RecoHGCal/TICL/python": [
+      1742823248.9494872
+    ],
+    "src/RecoHGCal/TICL/src": [
+      1741567842.2413685
+    ],
+    "src/RecoHGCal/TICL/test": [
+      1741567757.2182577
+    ]
+  },
+  "PACKMAP": {
+    "src/RecoHGCal/TICL": "src/RecoHGCal/TICL/src"
+  },
+  "REMOVEDBF": {},
+  "REMOVEDDIR": {}
+}
